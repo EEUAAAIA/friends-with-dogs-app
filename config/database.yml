@@ -1,0 +1,10 @@
+
+development:
+  adapter: postgresql
+  encoding: unicode
+  database: friends-with-dogs-app
+
+test:
+  adapter: sqlite3
+  encoding: unicode
+  database: friends-with-dogs-app
